@@ -1,0 +1,10 @@
+{
+    "token":"MTEyMDA0OTQ3Nzk0MDY5MDk2NA.GFq7EX.hAMvH3V17iXVT5crHBOO-47E-OjM63G8ODtXnM",
+    "clientId": "1120049477940690964",
+	"guildId": "923264423030816772",
+    "dadJokeApi":"https://dad-jokes.p.rapidapi.com/random/joke",
+    "wikiap":"https://en.wikipedia.org/w/api.php?action=query&list=search&sr",
+    "apiflickr":"https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=636e1481b4f3c446d26b8eb6ebfe7127&tags=",
+    "quoteapi":"https://api.quotable.io/quotes/random",
+    "memeapi":"https://meme-api.com/gimme"
+}
